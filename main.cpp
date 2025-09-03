@@ -5,5 +5,13 @@ int main() {
   const double length = 7.2;
   const double width = 1.3;
 
+  const double Area = length * width;
+  int Perimeter = 2 * (length + width);
+
+ cout << "Length = " << length << endl;
+     cout << "Width = " << width << endl;
+     cout<< "Area = "  << Area << endl;
+     cout<< "Perimeter = " << Perimeter << endl;
+
 
 }
