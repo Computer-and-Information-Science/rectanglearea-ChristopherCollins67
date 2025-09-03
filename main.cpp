@@ -8,6 +8,7 @@ int main() {
   const double Area = length * width;
   int Perimeter = 2 * (length + width);
 
+ cout << "Rectangle Properties:" << endl;
  cout << "Length = " << length << endl;
      cout << "Width = " << width << endl;
      cout<< "Area = "  << Area << endl;
